@@ -1,0 +1,25 @@
+@charset "utf-8";
+a.boton {
+	text-decotation: none;
+	font-size: 80px;
+	color: white;
+	border: 1px solid #DF0101;
+	padding: 7px 0;
+	border-radius: 10px;
+}
+a.boton b.a{
+	border: 1px solid #FE2E2E;
+    padding: 6px 0;border-radius: 10px;
+}
+a.boton b.b{
+	border: 1px solid #8A0808;
+	border-top: 1px solid #8a9cc2;
+	background: -webkit-linear-gradient(#DF0101, #B40404);
+	background: -moz-linear-gradient (#DF0101, #B40404);
+	background: linear-gradient (#DF0101, #B40404);
+	padding: 5px 20px;
+	border-radius: 10px;
+}
+a.boton b.b:hover{
+	box-shadow: 0 0 500px #101907;
+}
