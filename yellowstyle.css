@@ -1,0 +1,26 @@
+@charset "utf-8";
+	
+a.boton {
+	text-decotation: none;
+	font-size: 73px;
+	color: black;
+	border: 1px solid #868A08;
+	padding: 7px 0;
+	border-radius: 10px;
+}
+a.boton b.a{
+	border: 1px solid #AEB404;
+    padding: 6px 0;border-radius: 10px;
+}
+a.boton b.b{
+	border: 1px solid #AEB404;
+	border-top: 1px solid #FFBF00;
+	background: -webkit-linear-gradient(#DBA901, #F3F781);
+	background: -moz-linear-gradient (#DBA901, #F3F781);
+	background: linear-gradient (#DBA901, #F3F781);
+	padding: 5px 20px;
+	border-radius: 10px;
+}
+a.boton b.b:hover{
+	box-shadow: 0 0 500px #101907;
+}
